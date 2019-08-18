@@ -1,7 +1,5 @@
-# Xhostcomweb
-
-By Paul Anthony McGowan
 # vueuiwp
+By Paul Anthony McGowan
 
 Starter UIKit Vue JS project, with menus/mobile-offcanvas menus, pages (5) with corresponding components and views, routing etc, ready to build UIKit site, or swap out those files for any other CSS/JS framework.
 
