@@ -7,6 +7,9 @@ Can be used with Wordpress Rest API back end.
 
 Has Font Awesome 4.7 but can use other icons.
 
+# todo
+Contact page and any others
+
 ## Project setup
 ```
 npm install
