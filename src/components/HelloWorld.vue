@@ -5,12 +5,12 @@
 
                 <img class="tm-logo" src="logo_large.svg" width="281" height="217" title="UIkit Vue Wordpress" alt="UIkit Vue Wordpress">
 
-                <p class="uk-text-large">A lightweight and modular front-end framework<br class="uk-hidden-small"> for developing fast and powerful web interfaces. Now in Vue JS and Wordpress Hybrid</p>
+                <p class="uk-text-large">A lightweight and modular front-end framework<br class="uk-hidden-small"> for developing fast and powerful web interfaces. This is a Vue JS version to be used with a Wordpress Rest API backend.</p>
 
-                <a href="https://github.com/xhostcomweb/" class="uk-button tm-button-download" data-uikit-download>Download UIkit Vue</a>
+                <a href="https://github.com/xhostcomweb/vueuiwp/" class="uk-button tm-button-download" data-uikit-download>Download UIkit Vue</a>
 
                 <ul class="tm-subnav uk-subnav uk-flex-center">
-                    <li><a href="https://github.com/xhostcomweb">GitHub</a></li>
+                    <li><a href="https://github.com/xhostcomweb/vueuiwp/">GitHub</a></li>
                     <li><a href="docs/documentation_get-started.html">Get Started</a></li>
                     <li data-uikit-version></li>
                 </ul>
@@ -18,8 +18,8 @@
                 <ul class="tm-subnav uk-subnav uk-flex-center">
                     <li><a href="https://github.com/uikit/uikit/stargazers"><i class="fa fa-star"></i> <span data-uikit-stargazers>4894</span> Stargazers</a></li>
                     <li><a href="https://github.com/uikit/uikit/network"><i class="fa fa-code-fork"></i> <span data-uikit-forks>940</span> Forks</a></li>
-                    <li><a href="https://twitter.com/getuikit"><i class="fa fa-twitter"></i> @getuikit</a></li>
-                    <li><a href="https://plus.google.com/communities/114238665434626719878"><i class="fa fa-facebook"></i> Community</a></li>
+                    <li><a href="https://twitter.com/xhostcom"><i class="fa fa-twitter"></i> @xhostcom</a></li>
+                    <li><a href="https://facebook.com/xhostcom"><i class="fa fa-facebook"></i> Community</a></li>
                 </ul>
 
             </div>
@@ -30,7 +30,7 @@
 
                 <h1 class="uk-heading-large">Features</h1>
 
-                <p class="uk-text-large">UIkit gives you a comprehensive collection of HTML, CSS, and JS components<br class="uk-hidden-small"> which is simple to use, easy to customize and extendable.</p>
+                <p class="uk-text-large">UIkit Vue WP is built using UIKit and Vue JS, & gives you a comprehensive collection of HTML, CSS, and JS components<br class="uk-hidden-small"> which is simple to use, customizable and extendable.</p>
 
                 <div class="uk-grid" data-uk-grid-margin>
 
